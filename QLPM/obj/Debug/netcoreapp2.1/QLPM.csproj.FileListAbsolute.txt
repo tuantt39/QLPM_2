@@ -1,0 +1,16 @@
+C:\Users\tuant\source\repos\QLPM\QLPM\bin\Debug\netcoreapp2.1\QLPM.deps.json
+C:\Users\tuant\source\repos\QLPM\QLPM\bin\Debug\netcoreapp2.1\QLPM.runtimeconfig.json
+C:\Users\tuant\source\repos\QLPM\QLPM\bin\Debug\netcoreapp2.1\QLPM.runtimeconfig.dev.json
+C:\Users\tuant\source\repos\QLPM\QLPM\bin\Debug\netcoreapp2.1\QLPM.dll
+C:\Users\tuant\source\repos\QLPM\QLPM\bin\Debug\netcoreapp2.1\QLPM.pdb
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.csprojAssemblyReference.cache
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.csproj.CoreCompileInputs.cache
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.RazorAssemblyInfo.cache
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.RazorAssemblyInfo.cs
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.AssemblyInfoInputs.cache
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.AssemblyInfo.cs
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.RazorTargetAssemblyInfo.cache
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.dll
+C:\Users\tuant\source\repos\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.pdb
+C:\Users\tuant\Desktop\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.dll
+C:\Users\tuant\Desktop\QLPM\QLPM\obj\Debug\netcoreapp2.1\QLPM.pdb
